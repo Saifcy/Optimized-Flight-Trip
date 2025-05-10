@@ -1,4 +1,5 @@
-# Optimized-Flight-Trip
+# Optimized Flight Trip
+
 A web-based application that helps users find the most efficient and cost-effective flight routes using advanced algorithms and optimization techniques.
 
 ## 🌐 Live Demo
